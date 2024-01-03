@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         Cookie Stonks
 // @namespace    cookiestonks
-// @version      1.7.2
+// @version      1.7.3
 // @description  Cookie Clicker Stock Market Helper
-// @author       Sui
+// @author       Sui, Nama17
 // @match        https://orteil.dashnet.org/cookieclicker/
 // @match        http://orteil.dashnet.org/cookieclicker/
-// @homepageURL  https://github.com/worldwidewaves/Cookie-Stonks
-// @supportURL   https://github.com/worldwidewaves/Cookie-Stonks/issues
-// @updateURL    https://raw.githubusercontent.com/worldwidewaves/Cookie-Stonks/main/main.user.js
-// @icon         https://raw.githubusercontent.com/worldwidewaves/Cookie-Stonks/main/thumbnail.png
+// @homepageURL  https://github.com/nama17/Cookie-Stonks
+// @supportURL   https://github.com/nama17/Cookie-Stonks/issues
+// @updateURL    https://github.com/nama17/Cookie-Stonks/raw/main/main.user.js
+// @icon         https://github.com/nama17/Cookie-Stonks/raw/main/thumbnail.png
 // @license      MIT
 // @grant        none
 // ==/UserScript==
