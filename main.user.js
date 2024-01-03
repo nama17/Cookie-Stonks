@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Cookie Stonks
 // @namespace    cookiestonks
-// @version      1.7.3
+// @version      1.7.4
 // @description  Cookie Clicker Stock Market Helper
 // @author       Sui, Nama17
 // @match        https://orteil.dashnet.org/cookieclicker/
