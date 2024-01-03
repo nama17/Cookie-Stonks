@@ -187,9 +187,9 @@
 
                     imageAppend.append(canvas)
                     if (difference >= topDiff && key1) {
-                        canvas.style.boxShadow = 'inset 0 0 16px #ffc35f'
+                        canvas.style.boxShadow = 'inset 0 0 16px #ffc35f!important'
                     } else if (difference <= bottomDiff && key2) {
-                        canvas.style.boxShadow = 'inset 0 0 16px #c62813'
+                        canvas.style.boxShadow = 'inset 0 0 16px #c62813!important'
                     }
                 }
             }
